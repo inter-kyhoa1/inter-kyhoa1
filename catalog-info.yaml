@@ -4,6 +4,7 @@ metadata:
   name: inter-kyhoa1
   annotations:
     github.com/project-slug: inter-kyhoa1/inter-kyhoa1
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
