@@ -1,5 +1,5 @@
-site_name: "ssr-site-001"
-site_description: "a site"
+site_name: "Hello, world"
+site_description: "a template"
 
 nav:
   - Introduction: index.md
