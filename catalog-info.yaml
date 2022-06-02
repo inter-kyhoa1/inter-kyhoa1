@@ -2,6 +2,13 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: inter-kyhoa1-entity01
+  links:
+    - url: https://www.svtplay.se
+      title: SVT Play
+      icon: cast
+    - url: https://stackoverflow.com/
+      title: StackOverflow
+      icon: code
   annotations:
     github.com/project-slug: inter-kyhoa1/inter-kyhoa1
     backstage.io/techdocs-ref: dir:.
